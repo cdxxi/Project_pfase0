@@ -7,7 +7,7 @@
 Проект работает только по квартирам Москвы.
 
 ## Когда увидели задание, выглядели вот так:
-![](https://github.com/cdxxi/Project_pfase0/blob/main/sweaty-speedruner.gif.mp4)
+![](https://github.com/cdxxi/Project_pfase0/blob/main/sweaty-speedruner.gif)
 
 ## Пошаговые выполнения:
 ### Обработка данных.
