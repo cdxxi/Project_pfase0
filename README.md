@@ -27,6 +27,7 @@
 ![](https://github.com/cdxxi/Project_pfase0/blob/main/shadow-fiend-dota2.gif)
 
 ## P.S. Этот график не вошел в нашу работу, но он получился красивым, и мы уважаем его за это. Поэтому просто посмотрите на него.
-![alt text](/home/cdxxi/Загрузки/photo_2024-12-19_20-31-01.jpg)
+![photo_2024-12-19_20-31-01](https://github.com/user-attachments/assets/7101c645-cb8c-40a0-b5bc-84e248e4472a)
+
 
 
